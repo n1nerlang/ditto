@@ -1,0 +1,12 @@
+{
+  "engineName": "Ditto",
+  "version": "0.1.0",
+  "settings": {
+    "vsync": true,
+    "targetFps": 60,
+    "window": {
+      "width": 1280,
+      "height": 720
+    }
+  }
+}
