@@ -28,3 +28,18 @@ We’re glad you’re here! Whether you're a seasoned developer or just someone 
 - `/lib`: Third-party libraries (e.g., CPML)
 - `/assets`: Models (`.bbmodel`) and textures
 - `/md-assets`: Mascot states and README imagery
+
+### Current Status
+
+<div align="center">
+  <img src="md-assets/pic1.png" width="200" alt="Happy Mascot" />
+  <p><i>The Ditto Orange is ready to code!</i></p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Current Mascot Status</h3>
+  <img src="md-assets/pic3.png" width="150" alt="Pondering Mascot" />
+  <p><i>The engine is currently investigating a new issue.</i></p>
+</div>
