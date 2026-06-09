@@ -1,10 +1,12 @@
 {
   "name": "ditto",
   "version": "1.0.0",
+  "type": "module",
   "description": "Ditto: A high-performance Lua voxel engine.",
   "scripts": {
     "format": "prettier --write .",
-    "check-format": "prettier --check ."
+    "check-format": "prettier --check .",
+    "test": "node --test tests/"
   },
   "devDependencies": {
     "prettier": "^3.3.0",
