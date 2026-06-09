@@ -12,7 +12,7 @@
 
 <br>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-GPL-blue.svg)](https://fsf.org)
 [![Version](https://img.shields.io/badge/version-0.1.0-green.svg)]()
 
 </div>
