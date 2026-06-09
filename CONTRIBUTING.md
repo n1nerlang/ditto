@@ -39,7 +39,6 @@ We’re glad you’re here! Whether you're a seasoned developer or just someone 
 <br>
 
 <div align="center">
-  <h3>Current Mascot Status</h3>
   <img src="md-assets/pic3.png" width="150" alt="Pondering Mascot" />
   <p><i>The engine is currently investigating a new issue.</i></p>
 </div>
